@@ -30,8 +30,8 @@
 5. banyaknya user di masing-masing kohort
 
 ## wawasan
-| :---- | : ---- |
-| **temuan** | **deskripsi |
+| **temuan** | **deskripsi** |
+| ---- | ---- |
 | desember 2010 menjadi bulan dengan user terbanyak | jumlah user 949 |
 | retention rate stabil | min 28% max 50% average 38% |
 | bulan setelahnya rate turun dibawah 30% | januari 2011 retention rate hanya 24% |
